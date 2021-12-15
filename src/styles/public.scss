@@ -1,0 +1,114 @@
+body {
+  height: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+label {
+  font-weight: 700;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+#app {
+  height: 100%;
+  font-size: 14px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+div:focus {
+  outline: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.clearfix {
+  &:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+}
+
+// main-container global css
+.app-container {
+  padding: 10px 15px;
+  background: #fff;
+}
+
+.app-toolbar {
+  overflow: hidden;
+  margin-bottom: 10px;
+
+  .toolbar-right {
+    float: right;
+  }
+
+  .toolbar-select {
+    width: 120px;
+    margin-right: 20px;
+  }
+
+  .toolbar-input {
+    width: 20vw;
+    margin-right: 10px;
+  }
+}
+
+// scrollbar
+::-webkit-scrollbar{
+  width: 6px;
+  height: 6px;
+  padding-top: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+  height: 12px;
+  border-radius: 20px;
+  background-color: #B3C6DD;
+}
+
+::-webkit-scrollbar-track{
+  height: 12px;
+  border-radius: 20px;
+  background-color: #edf0f4;
+}
+
+.container {
+  width: calc(100% - 40px);
+  height: calc(100vh - 90px);
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 6px;
+}

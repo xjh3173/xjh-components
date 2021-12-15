@@ -1,0 +1,35 @@
+@import './variables.scss';
+
+/deep/ .json-form {
+  .el-button {
+    margin-bottom: 10px;
+  }
+}
+
+.tools-button {
+  margin-bottom: 10px;
+}
+
+.control-button {
+  color: #597cff;
+  cursor: pointer;
+
+  &.disable {
+    color: #c0c4cc;
+    cursor: not-allowed;
+  }
+
+  & + .control-button {
+    margin-left: 5px;
+  }
+}
+
+.sub-page {
+  .title {
+    display: flex;
+    justify-content: space-between;
+    height: 36px;
+    padding: 0 20px;
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,28 @@
+.el-date-editor.el-input, .el-date-editor.el-input__inner {
+    width: 160px;
+}
+.el-date-editor--daterange.el-input, .el-date-editor--daterange.el-input__inner, .el-date-editor--timerange.el-input, .el-date-editor--timerange.el-input__inner {
+    width: 240px;
+}
+
+.el-tabs__item:hover {
+    background: #409EFF;;
+    color: #fff!important;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.el-tabs__item.is-active {
+    background: #409EFF;;
+    color: #fff!important;
+    font-weight: bolder;
+}
+.el-tabs--card>.el-tabs__header .el-tabs__item.is-active {
+    border-bottom-color: 0
+}
+.el-tabs--card>.el-tabs__header .el-tabs__item {
+    border-bottom: 0;
+    border-left: 0
+}
+.el-tabs__item{
+    font-weight: normal;
+}

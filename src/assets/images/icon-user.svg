@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{clip-path:url(#SVGID_6_);fill:#D3DDE8;}
+	.st3{clip-path:url(#SVGID_8_);}
+	.st4{clip-path:url(#SVGID_10_);fill:#8396B6;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="512.1" cy="512.13" r="512"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="-159.9" y="-191.87" width="1344" height="1376"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<defs>
+					<rect id="SVGID_5_" x="0.1" y="0.13" width="1024" height="1024"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<rect x="-159.9" y="-159.87" class="st2" width="1344" height="1344"/>
+			</g>
+			<g class="st1">
+				<defs>
+					<path id="SVGID_7_" d="M512.1,722.98c167.34,0,303.56,115.74,304.86,274.36v17.23c0,58.34-58.03,60.55-208.49,60.55H432.59
+						c-150.46,0-208.49,0-208.49-60.55v-17.23C225.35,848.09,344.76,722.98,512.1,722.98z M512.1,256.13
+						c142.02,0,193.15,107.47,191.98,213.07c-1.16,105.6-19.52,189.87-193.02,189.87c-173.5,0-191.8-86.35-190.94-191.96
+						C320.98,363.6,370.08,256.13,512.1,256.13z"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st3">
+					<defs>
+						<rect id="SVGID_9_" x="0.1" y="0.13" width="1024" height="1024"/>
+					</defs>
+					<clipPath id="SVGID_10_">
+						<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+					</clipPath>
+					<rect x="64.1" y="96.13" class="st4" width="912.86" height="1139"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
