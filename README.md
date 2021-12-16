@@ -11,6 +11,7 @@ npm install xjh-components -S
 ##### 引入:
 ```
 import XJHComponents from 'xjh-components'
+import 'xjh-components/lib/xjh-components.css'
 
 Vue.use(XJHComponents)
 ```

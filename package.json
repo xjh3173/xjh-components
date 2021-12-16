@@ -1,6 +1,6 @@
 {
   "name": "xjh-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "public components",
   "main": "lib/xjh-components.common.js",
   "scripts": {
